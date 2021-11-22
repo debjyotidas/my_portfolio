@@ -1,0 +1,125 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.main {
+    
+
+    background-image: linear-gradient(to bottom,#d4854c,#171616,#292624);
+    background-position: center;
+    background-size: cover;
+    
+    
+}
+
+.navbar {
+    
+    margin: auto;
+    z-index: 1;
+
+}
+
+
+.icon {
+    width: 200px;
+    
+    height: 70px;
+}
+
+
+.logo {
+    color: #ff7200;
+    font-size:40px;
+    font-family: Comic Sans MS;
+    padding-left:1px;
+    float: left;
+    padding-top:2px;
+    font-weight: bold;
+}
+
+.dropdown-item:hover {
+    color: #ff7200
+}
+.achieve {
+    color: #ff7200;
+    font-family: Comic Sans MS;
+    font-weight: 600;
+    margin-top:35px;
+}
+.card {
+    box-shadow: 0 2px 25px 0 rgba(110, 130, 208, .18);
+}
+.card-body {
+    background-color: #e8eeff;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+}
+.card-body,
+.list-feature {
+    font-weight: normal;
+    font-family: Comic Sans MS;
+
+}
+.cont_2 {
+    box-shadow: 0px 12px 25px rgba(0, 0, 0, .3);
+    margin-top: 35px;
+}
+.card-body {
+    background-color: #e8eeff;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+}
+
+.btn-link {
+    width: 100%;
+    height: 60px;
+    color: #000 !important;
+    font-weight: bold !important;
+    text-align: left !important;
+    text-decoration: none !important;
+}
+
+.card-body,
+.list-feature {
+    font-weight: normal;
+    font-family: Comic Sans MS;
+
+}
+
+
+.line {
+    border-color: #919494;
+    padding-top: 40px;
+    border-width: 4px;
+    margin-top:90px;
+}
+.follow-us-section {
+    background-color: transparent;
+}
+
+.follow-us-section-heading {
+    text-align: center;
+    color: #919494;
+    font-family: "Roboto";
+    font-size: 28px;
+    font-weight: 700;
+    margin-top:none;
+}
+.icon {
+    color: #919494;
+    font-size:30px;
+    padding-top:10px;
+    margin-top:10px;
+}
+.follow-us-icon-container{
+    padding:none;
+    margin-left:2rem;
+    width:50px;
+}
+.nav-link{
+    font-size:20px;
+}
+
